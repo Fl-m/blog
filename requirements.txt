@@ -31,6 +31,6 @@ scipy==0.19.1
 six==1.11.0
 SQLAlchemy==1.1.14
 subprocess32==3.2.7
-urllib3==1.22
+urllib3==1.26.5
 virtualenv==15.1.0
 webencodings==0.5.1
